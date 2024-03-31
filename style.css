@@ -115,7 +115,6 @@ body{
 }
 .recipe_container{
   width:100%;
-  background-color: yellow;
   margin:0 auto;
   display: grid;
   grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
